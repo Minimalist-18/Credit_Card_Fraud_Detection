@@ -12,7 +12,6 @@ A machine learning project that detects fraudulent credit card transactions by a
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
 
 ## Usage
 1. Clone the repository.
@@ -21,4 +20,5 @@ A machine learning project that detects fraudulent credit card transactions by a
 4. Test the model using transaction data.
 
 ## Objective
+
 To build a machine learning model that accurately identifies fraudulent credit card transactions and helps prevent financial fraud.
